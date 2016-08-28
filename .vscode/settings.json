@@ -1,0 +1,21 @@
+{
+	"editor.tabSize": 2,
+	"editor.renderWhitespace": true,
+	"editor.insertSpaces": false,
+	"files.trimTrailingWhitespace": true,
+	"files.encoding": "utf8",
+	"files.eol": "\n",
+	"files.exclude": {
+		"bin": true,
+		"obj": true,
+		".vscode": true,
+		"**/.git": true,
+		"*.lock.json": true
+	},
+	"search.exclude": {
+		"bin": true,
+		"obj": true,
+		".vscode": true,
+		"*.lock.json": true
+	}
+}
